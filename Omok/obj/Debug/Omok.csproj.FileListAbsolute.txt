@@ -1,0 +1,9 @@
+C:\Users\qkrdy\source\repos\Omok\Omok\bin\Debug\Omok.exe.config
+C:\Users\qkrdy\source\repos\Omok\Omok\bin\Debug\Omok.exe
+C:\Users\qkrdy\source\repos\Omok\Omok\bin\Debug\Omok.pdb
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.MainForm.resources
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.Properties.Resources.resources
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.csproj.GenerateResource.cache
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.exe
+C:\Users\qkrdy\source\repos\Omok\Omok\obj\Debug\Omok.pdb
